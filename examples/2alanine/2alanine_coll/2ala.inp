@@ -1,0 +1,8 @@
+pdb 2ala.pdb
+refatoms 7 2 1 17
+reff 2.0
+C 6.0
+viscosity 8.9e-4
+temperature 298.15
+coordinates collective 1
+2 4 3 1.0 14 3 1.0 10 0.0 1.0

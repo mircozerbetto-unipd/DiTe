@@ -1,0 +1,9 @@
+pdb 2ala.pdb
+refatoms 7 2 1 17
+reff 2.0
+C 6.0
+viscosity 8.9e-4
+temperature 298.15
+coordinates simple 1
+4 3 0
+bonds 1 17 24
